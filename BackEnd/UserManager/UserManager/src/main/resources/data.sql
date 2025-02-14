@@ -1,0 +1,1 @@
+insert into users (user_access, user_name, auction_id, phone, address, bids) values ('8675', 'Thariq', '#T2024@Login', '8610096960', '46 - MDG Street, Villupuram', 0);
